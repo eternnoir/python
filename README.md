@@ -1,4 +1,4 @@
 python
 ======
 
-A Docker image with python
+A Docker image with python-pip
